@@ -1,0 +1,46 @@
+{
+    "geode": "5.9.0",
+    "gd": {
+        "android": "2.2081",
+        "win": "2.2081",
+        "mac": "2.2081",
+        "ios": "2.2081"
+    },
+    "version": "v1.0.0",
+    "id": "haturz1.languages",
+    "name": "Languages",
+    "developer": "haturz1",
+    "description": "Changes the game language to your proper one.",
+    "resources": {
+        "files": [
+            "resources/*.frag",
+            "resources/*.vert"
+        ],
+        "sprites": [
+            "resources/*.png"
+        ]
+    },
+    "settings": {
+        "disabled": {
+            "name": "Disabled",
+            "description": "Disables the mod. Simple but needs to restart.",
+            "type": "bool",
+            "default": false
+        }
+    },
+    "dependencies": {
+        "geode.node-ids": ">=v1.9.0"
+    },
+    "links": {
+        "community": "https://discord.gg/5FF7TTWMEe",
+        "source": "https://github.com/haturz1/Languages",
+        "homepage": "https://haturz.pages.dev"
+    },
+    "tags": [
+        "content",
+        "enhancement",
+        "interface",
+        "online",
+        "utility"
+    ]
+}
