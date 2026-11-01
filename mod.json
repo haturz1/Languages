@@ -10,6 +10,7 @@
     "id": "haturz1.languages",
     "name": "Languages",
     "developer": "haturz1",
+    "tag": ["joke, utility"]
     "description": "Changes the game language to your proper one.",
     "resources": {
         "files": [
